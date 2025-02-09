@@ -76,6 +76,9 @@ I am an undergraduate in Multiplatform Application Development. PHP, Java  and K
 
 ### 💻 GitHub Profile Stats
 ![My github status](https://github-readme-stats.vercel.app/api?username=danielMorenoEstech&show_icons=true&include_all_commits=true)
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=danielMorenoEstech" alt="GitHub Streak" />
+
 <!-- 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielMorenoEstech&layout=compact)
 <br/>
@@ -86,4 +89,4 @@ I am an undergraduate in Multiplatform Application Development. PHP, Java  and K
 <br/><br/>
 
 > [!NOTE]  
-> This is my account for school related things. [This](https://github.com/LordTenebrous) is my personal account.
+> This is my account for school related things. [This](https://github.com/LordTenebrous), is my personal account.
