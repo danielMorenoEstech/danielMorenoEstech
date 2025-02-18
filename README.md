@@ -68,8 +68,8 @@ I am an undergraduate in Multiplatform Application Development. PHP, Java  and K
 ### :gear: OTHER
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC)&nbsp;
-<!-- ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)&nbsp; -->
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)&nbsp;
+<!-- ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)&nbsp; -->
 
 ### :computer: GitHub Profile Stats
 ![My github status](https://github-readme-stats.vercel.app/api?username=danielMorenoEstech&show_icons=true&include_all_commits=true)
